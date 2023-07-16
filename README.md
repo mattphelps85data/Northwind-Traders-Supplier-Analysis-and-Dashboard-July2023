@@ -271,8 +271,7 @@ ORDER BY
     AverageFreight;
 ```
 ## Dashboard
-[![northwind-dashboard.png](https://i.postimg.cc/d1BYSZT2/northwind-dashboard.png)](https://postimg.cc/N95SKMDF)
-[![Matthew-1.png](https://i.postimg.cc/W4rdD6fp/Matthew-1.png)](https://postimg.cc/t1qqwPj8)
+[![northwind-dashboard.png](https://i.postimg.cc/FHfM72qc/northwind-dashboard.png)](https://postimg.cc/k2m1Hh7X)
 
 
 ## Authors
